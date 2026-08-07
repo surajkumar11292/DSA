@@ -13,7 +13,7 @@ var removeDuplicates = function(nums) {
 
         if(nums[i]==nums[j]){
             j++;
-            continue;
+            
 
         }
         else{
